@@ -1,0 +1,5 @@
+action	field	URL
+deny	access	*://*.doubleclick.net/*
+allow	access	*://*.gpo.iitb.ac.in/*
+allow	image	*://*.doubleclick.net/*
+allow	access	*://*.doubleclick.net/*

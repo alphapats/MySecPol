@@ -1,0 +1,15 @@
+action	field	URL
+deny	http	*
+deny	XMLhttprequest	*
+deny	object	*
+allow	image	*
+deny	sub-frame	*
+deny	executable	*
+deny	downloads	*
+deny	javascript	crossdomain
+deny	javascript	*://*.iitb.ac.in/*
+deny	javascript	*://*.zedo.com/*
+deny	javascript	*://partner.googleadservices.com/*
+deny	user-agent	*
+allow	referer	*
+allow	maxtabs	6

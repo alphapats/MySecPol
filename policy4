@@ -1,0 +1,4 @@
+action	field	URL
+allow	sensitive	www.onlinesbi.com
+allow	sensitive	www.hdfcbank.com
+allow	sensitive	www.facebook.com

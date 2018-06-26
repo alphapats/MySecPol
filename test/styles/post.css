@@ -1,0 +1,14 @@
+body{
+   width:600px;
+   height:800px;
+   background-color: cyan;
+   font-size: 100%;
+   border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+div {
+    word-wrap: break-word;
+}
+table {border-collapse:collapse; table-layout:fixed; width:600px;}
+table td {border:solid 1px #fab; word-wrap:break-word;}

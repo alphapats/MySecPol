@@ -1,0 +1,9 @@
+action	field	URL
+deny	access	*-
+allow	access	*://*.iitb.ac.in/*
+deny	thirdpartycookies	*
+deny	autofill	*
+allow	safeBrowsingEnabled	*
+allow	passwordSavingEnabled	*
+allow	doNotTrackEnabled	*
+deny	webRTC	*
