@@ -6,7 +6,9 @@ Web browsers handle content from different sources making them prone to various 
 
 # files:
 policy: File contains client policy written in MySecPol
+
 testparser.py: Parser which reads the policy file and sets extension variables.
+
 test folder: Contains browser extension code.
 
 
