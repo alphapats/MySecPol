@@ -9,6 +9,10 @@ policy: File contains client policy written in MySecPol
 
 testparser.py: Parser which reads the policy file and sets extension variables.
 
+sampleblock.js : File contains sample code without variable values. The parser copies the content of this file, adds variable values and creates new file test/block.js
+
+samplepopup.js : File contains sample code without variable values for popup.html . The parser copies the content of this file, adds variable values and creates new file test/popup.js
+
 test folder: Contains browser extension code.
 
 
